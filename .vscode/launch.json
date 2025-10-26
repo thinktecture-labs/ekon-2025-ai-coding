@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug 2048",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/2048/out/main",
+      "cwd": "${workspaceFolder}/src/2048",
+      "preLaunchTask": "Build 2048 Debug",
+      "terminal": "integrated"
+    }
+  ]
+}

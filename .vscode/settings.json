@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.lpr": "pascal",
+    "*.pas": "pascal"
+  },
+  "debug.allowBreakpointsEverywhere": true
+}
