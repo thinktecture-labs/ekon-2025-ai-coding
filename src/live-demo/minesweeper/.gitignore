@@ -1,0 +1,34 @@
+# FreePascal / FPC build artifacts
+*.o
+*.ppu
+*.a
+*.so
+*.dylib
+*.compiled
+ppas.sh
+
+# Build directory contents
+bin/
+!bin/.gitkeep
+
+# Backup files
+*.bak
+*~
+*.tmp
+
+# IDE files
+*.lpi
+*.lps
+*.res
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
