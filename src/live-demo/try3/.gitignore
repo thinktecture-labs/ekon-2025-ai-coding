@@ -1,0 +1,10 @@
+# Build artifacts
+bin/
+*.o
+*.ppu
+*.rsj
+ppas.sh
+link*.res
+
+# macOS
+.DS_Store
