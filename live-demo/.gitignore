@@ -1,0 +1,47 @@
+# FreePascal Minesweeper Build Artifacts
+# Generated files that should not be committed to version control
+
+# Build output directory
+bin/
+
+# FreePascal object files
+*.o
+
+# FreePascal compiled units
+*.ppu
+
+# FreePascal linker script (generated during build)
+ppas.sh
+
+# FreePascal assembly files
+*.s
+*.asm
+
+# FreePascal resource files (compiled)
+*.or
+*.res
+
+# FreePascal library files
+*.a
+*.so
+*.dylib
+
+# FreePascal debugging information
+*.dbg
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.tmp
+
+# macOS specific
+.DS_Store
+._*
+
+# IDE/Editor specific
+*.lps
+*.compiled
+*.backup
+.idea/
+*.sublime-*

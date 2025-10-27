@@ -1,0 +1,11 @@
+# FreePascal build artifacts
+bin/
+*.o
+*.ppu
+*.rsj
+*.s
+ppas.sh
+link*.res
+
+# macOS
+.DS_Store
